@@ -33,7 +33,7 @@ here are the link ways you can reach me:
 
 # GitHub Stats
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=zinnetyazicii&show_icons=true&theme=dracula)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Hasanbtr&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinnetyazicii&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasanbtr&layout=compact&theme=dracula)
