@@ -2,7 +2,7 @@ Hello! my name is Hasan, our universe is a computer, and we are transistors, whi
 
 here are the link ways you can reach me:
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-FFC0CB?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/hasan.biter_/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-227c?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/hasan.biter_/)
 [![twitter Badge](https://img.shields.io/badge/-twitter-0077B5?style=flat-quare&labelColor=0077B5&logo=twitter&logoColor=white&link=link)](https://www.twitter.com/hasan.biter_/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-quare&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/hasanbiter/)
 
