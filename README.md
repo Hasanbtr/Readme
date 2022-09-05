@@ -1,4 +1,4 @@
-Hello! it's Hasan, our universe is a computer, and we are transistors, which are its lifeblood. a single transistor is not very useful, but if their number increases, it will create a revolution. what about the transistor revolution?
+Hello! i am hasan, our universe is a computer, and we are transistors, which are its lifeblood. a single transistor is not very useful, but if their number increases, it will create a revolution. what about the transistor revolution?
 
 here are the link ways you can reach me:
 
