@@ -10,8 +10,8 @@ here are the link ways you can reach me:
 
 # 🛠️ Technologies & Tools
 
-![]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-quare&logo=html5&logoColor=white)
+
+![](https://img.shields.io/badge/python-E34F26?style=flat-quare&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-quare&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-quare&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-quare&logo=typescript&logoColor=white)
